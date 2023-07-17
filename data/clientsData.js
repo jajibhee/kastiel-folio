@@ -2,7 +2,7 @@ import { v4 as uuidv4 } from 'uuid';
 
 // Import images
 import CubanaImage from '../public/images/cubana-group.png';
-import FynImage from '../public/images/fynanze.png';
+import FynImage from '../public/images/fynImg.jpg';
 
 export const clientsHeading = 'Some of the brands I worked with'
 

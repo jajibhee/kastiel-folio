@@ -267,7 +267,7 @@ export const projectsData = [
 		title: 'Fynaze Ltd',
 		url: 'project-management-ui',
 		category: 'FYNAZE LIMITED is a micro loan and consulting company incorporated in Nigeria.',
-		img: '/images/fynanze.png',
+		img: '/images/fynImg.jpg',
 		ProjectHeader: {
 			title: 'Fans Fantasy League',
 			publishDate: 'Jul 26, 2021',
