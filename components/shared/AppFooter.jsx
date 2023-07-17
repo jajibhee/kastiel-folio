@@ -22,17 +22,17 @@ const socialLinks = [
 	{
 		id: 3,
 		icon: <FiTwitter />,
-		url: 'https://twitter.com/walkalone',
+		url: 'https://twitter.com/i_walkk_alone',
 	},
 	{
 		id: 4,
 		icon: <FiLinkedin />,
-		url: 'https://www.linkedin.com/in/aikulola',
+		url: 'https://www.linkedin.com/in/olakunle-aikulola-1a5a63283',
 	},
 	{
 		id: 5,
 		icon: <FiInstagram />,
-		url: 'https://www.instagram.com/walkalone',
+		url: 'https://www.instagram.com/i.walkk.alone',
 	},
 ];
 

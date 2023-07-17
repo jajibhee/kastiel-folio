@@ -14,7 +14,7 @@ export const projectsData = [
 		url: 'google-health-platform',
 		web: 'https://instagram.com/cubanagroup?igshid=NTc4MTIwNjQ2YQ==',
 		category: 'Cubana Group of companies Ltd is into the business of hospitality and entertainment and has been in operation for over a decade with various branches.',
-		img: '/images/web-project-2.jpg',
+		img: '/images/cubana-group.png',
 		ProjectHeader: {
 			title: 'Cubana Group',
 			publishDate: 'Jul 26, 2021',
@@ -141,7 +141,7 @@ export const projectsData = [
 		url: 'phoenix-digital-agency',
 		web: ' https://open.spotify.com/album/026xBSSTYMBCL0Pf0poBNd?si=RwEkHL5oTKmZnZDw2DKv9g ',
 		category: 'Kamar Tachio is a versatile singer, rapper, songwriter, and producer from Kaduna State, Nigeria, he has the ability to create appealing music in the three primary Nigerian languages .',
-		img: '/images/mobile-project-2.jpg',
+		img: '/images/kamartachio.jpg',
 		ProjectHeader: {
 			title: 'HOW Foundation',
 			publishDate: 'Jul 26, 2021',
@@ -267,7 +267,7 @@ export const projectsData = [
 		title: 'Fynaze Ltd',
 		url: 'project-management-ui',
 		category: 'FYNAZE LIMITED is a micro loan and consulting company incorporated in Nigeria.',
-		img: '/images/ui-project-1.jpg',
+		img: '/images/fynanze.png',
 		ProjectHeader: {
 			title: 'Fans Fantasy League',
 			publishDate: 'Jul 26, 2021',
